@@ -1,111 +1,64 @@
-<div align="center">
+# 👋 Hi, I'm Muhammad Hassan Gul
 
-# Muhammad Hassan Gul 👋
+[![Portfolio](https://img.shields.io/badge/Portfolio-hassangul.me-2f81f7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hassangul.me/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Hassan%20Gul-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/its-muhammad-hassan)
+[![Email](https://img.shields.io/badge/Email-mhassaan.workmail%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mhassaan.workmail@gmail.com)
 
-### Python Developer • AI Specialist • CV Expert
+**Computer Vision Engineer & AI Specialist**
 
-Building intelligent systems, automation tools, and AI-powered solutions.
+I specialize in building real-time deep learning pipelines, sub-30ms pose estimation engines, and automated biomechanical motion tracking systems for sports analytics.
 
-🌐 Website: hassangul.me
-
-</div>
+🌐 **Official Website & Portfolio:** [https://hassangul.me](https://hassangul.me)
 
 ---
 
 ## 🚀 About Me
 
-I'm **Muhammad Hassan Gul**, a Python developer passionate about artificial intelligence, automation, and building software that solves real-world problems.
-
-My areas of expertise include:
-
-- Python development
-- Artificial intelligence
-- Machine learning
-- Automation
-- Data analysis
-- Prompt engineering
-- Resume and ATS optimization
+- 🔬 **Current Role:** Computer Vision Engineer at **ID Sports Ventures**, architecting real-time video analytics and pose tracking software.
+- 🎯 **Core Expertise:** Pose Estimation, Keypoint Detection, Object Tracking (YOLO, ByteTrack), Optical Flow, Biomechanical Metric Extraction.
+- 🛠️ **Tech Stack:** PyTorch, OpenCV, TorchScript, ONNX Runtime, TensorRT, FastAPI, Docker, CUDA, C++.
+- 💼 **Former Role:** Software Engineer at Oxmite Digital Ltd. (Python microservices & cloud optimization).
+- 📍 **Location:** Islamabad, Pakistan (Open to global remote & relocation opportunities).
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills & Technologies
 
-### Languages
-
-- Python
-- JavaScript
-- SQL
-- HTML
-- CSS
-
-### Frameworks & Libraries
-
-- FastAPI
-- Django
-- Flask
-- TensorFlow
-- Scikit-learn
-- Pandas
-- NumPy
-
-### AI & Machine Learning
-
-- Large Language Models (LLMs)
-- Prompt Engineering
-- Retrieval-Augmented Generation (RAG)
-- Natural Language Processing (NLP)
-- Computer Vision
-
-### Databases
-
-- PostgreSQL
-- MySQL
-- SQLite
-
-### Tools
-
-- Git
-- GitHub
-- Linux
-- Docker
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Computer Vision & AI** | Pose Estimation, Keypoint Detection, YOLO, DeepSORT / ByteTrack, Optical Flow, Action Recognition |
+| **Frameworks & Libraries** | PyTorch, OpenCV, TorchScript, ONNX Runtime, TensorFlow, NumPy, SciPy |
+| **Backend & MLOps** | Python, C++, FastAPI, Docker, CUDA, TensorRT, AWS (EC2, S3), RTSP / FFmpeg |
+| **Engineering Practices** | Clean Code, CI/CD, Microservices, Real-Time Latency Optimization |
 
 ---
 
-## 🔥 What I Build
+## 🏆 Work Experience Highlights
 
-🐍 Python applications
+### ⚽ ID Sports Ventures — Computer Vision Engineer
+* **Real-Time Pose Tracking:** Engineered sub-30ms keypoint detection models for edge deployment on live streaming footage.
+* **Biomechanical Metrics:** Built automated 2D pose lifting engines for joint angle & limb velocity calculations.
+* **Multi-Object Tracking:** Integrated ByteTrack/DeepSORT to overcome severe athlete occlusion during dynamic gameplay.
 
-🤖 AI-powered systems
-
-⚙️ Automation tools
-
-📊 Data analysis solutions
-
-📄 ATS-optimized resumes
-
----
-
-## 🌱 Currently Learning
-
-- Agentic AI systems
-- Deep learning
-- Cloud deployment
-- Advanced Python development
+### ⚡ Oxmite Digital Ltd. — Software Engineer
+* Built high-throughput FastAPI backend microservices for image/video processing requests.
+* Containerized core applications using Docker for cloud deployment, boosting code coverage to 85%.
 
 ---
 
-## 📫 Contact Me
+## 📌 Featured Project
 
-- 📧 Email: muhammadhassangul01@gmail.com
-- 🌐 Website: https://hassangul.me
-- 🐙 GitHub: https://github.com/muhammadhassangul01
-
----
-
-## 💭 Philosophy
-
-> "Build. Learn. Improve. Repeat."
+### 🏋️‍♂️ AI-Powered Athlete Biomechanics Engine
+Automated 2D pose lifting and real-time motion tracking system evaluating athletic joint angles and execution metrics under extreme motion blur.
+* **Stack:** PyTorch, OpenCV, ByteTrack, FastAPI, CUDA, Docker
 
 ---
 
-⭐ Thanks for visiting my profile.
+## 📬 Connect With Me
+
+- **Portfolio:** [hassangul.me](https://hassangul.me)
+- **LinkedIn:** [linkedin.com/in/its-muhammad-hassan](https://linkedin.com/in/its-muhammad-hassan)
+- **Email:** [mhassaan.workmail@gmail.com](mailto:mhassaan.workmail@gmail.com)
+
+---
+*Visit [hassangul.me](https://hassangul.me) to explore my full resume, live project demos, and technical articles.*
